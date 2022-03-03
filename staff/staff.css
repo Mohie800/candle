@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+img {
+    height: auto;
+    width: 5rem;
+}
+.hero-image {
+    background-image: url("../Style1\ Colored\ Background.png");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-attachment: fixed;
+    
+}
+
+.img1 {
+    height: 2rem;
+    width: auto;
+}
+
+.ma {
+    margin: 10px;
+}
+
+
