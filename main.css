@@ -43,8 +43,7 @@ html, body {
     padding-bottom: 56.25%; 
     height: 0;
   }
-  .ifr{
-    position: absolute;
+  .iframe{
     top:0;
     left: 0;
     width: 100%;
